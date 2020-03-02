@@ -10,9 +10,9 @@ The FlowLayout is used to arrange the components in a line, one after another (i
 * public static final int TRAILING
 
 ## Constructors of FlowLayout class:
-* FlowLayout(): creates a flow layout with centered alignment and a default 5 unit horizontal and vertical gap.
-* FlowLayout(int align): creates a flow layout with the given alignment and a default 5 unit horizontal and vertical gap.
-* FlowLayout(int align, int hgap, int vgap): creates a flow layout with the given alignment and the given horizontal and vertical gap.
+* FlowLayout() :- creates a flow layout with centered alignment and a default 5 unit horizontal and vertical gap.
+* FlowLayout(int align) :- creates a flow layout with the given alignment and a default 5 unit horizontal and vertical gap.
+* FlowLayout(int align, int hgap, int vgap) :- creates a flow layout with the given alignment and the given horizontal and vertical gap.
 
 ## Example
 ```javascript
