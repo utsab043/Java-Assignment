@@ -6,7 +6,7 @@ Java adapter classes provide the default implementation of listener interfaces. 
 
 The adapter classes are found in java.awt.event, java.awt.dnd and javax.swing.event packages.
 
-java.awt.event Adapter Classes
+> java.awt.event Adapter Classes
 
 Adapter class	| Listener interface
 -------------   | ------------------
